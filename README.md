@@ -91,6 +91,4 @@ El proyecto está diseñado para cumplir con:
 - `build/` - Archivos temporales de PyInstaller.
 - `empleados.spec` - Especificación de PyInstaller.
 
-## Nota
 
-Este README complementa el desarrollo ya realizado sin modificar la lógica original del sistema.
